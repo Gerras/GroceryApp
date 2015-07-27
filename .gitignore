@@ -1,0 +1,4 @@
+bin/
+.ntvs_analysis.dat
+GroceyAPI.njsproj
+node_modules/
